@@ -1,0 +1,8 @@
+{
+  "name": "coding_challenge_4",
+  "version": "1.0.0",
+  "description": "Coding challenge for udemy class",
+  "main": "solution.js",
+  "license": "MIT",
+  "dependencies": {}
+}
